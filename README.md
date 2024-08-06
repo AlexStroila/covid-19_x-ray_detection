@@ -16,23 +16,23 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 
 <p align="center">
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Original.png" alt="Original" width="100%">
+    <img src="/images/Original.png" alt="Original" width="16%">
     <span><strong>Original</strong></span>
   </div>
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Translate.JPEG" alt="Translation" width="100%">
+    <img src="/images/Translate.JPEG" alt="Translation" width="16%">
     <span><strong>Translated</strong></span>
   </div>
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Rotate.JPEG" alt="Rotation" width="100%">
+    <img src="/images/Rotate.JPEG" alt="Rotation" width="16">
     <span><strong>Rotated</strong></span>
   </div>
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Rescale.JPEG" alt="Rescale" width="100%">
+    <img src="/images/Rescale.JPEG" alt="Rescale" width="16%">
     <span><strong>Rescaled</strong></span>
   </div>
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="100%">
+    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="16%">
     <span><strong>Brightness Adjusted</strong></span>
   </div>
 </p>
