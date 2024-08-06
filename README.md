@@ -14,28 +14,29 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 
 ### Data Augmentation Examples
 
-<p align="center">
-  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Original.png" alt="Original" width="16%">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="/images/Original.png" alt="Original" style="width: 100px; display: block; margin: 0 auto;">
     <span><strong>Original</strong></span>
   </div>
-  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Translate.JPEG" alt="Translation" width="16%">
+  <div style="text-align: center;">
+    <img src="/images/Translate.JPEG" alt="Translation" style="width: 100px; display: block; margin: 0 auto;">
     <span><strong>Translated</strong></span>
   </div>
-  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Rotate.JPEG" alt="Rotation" width="16%">
+  <div style="text-align: center;">
+    <img src="/images/Rotate.JPEG" alt="Rotation" style="width: 100px; display: block; margin: 0 auto;">
     <span><strong>Rotated</strong></span>
   </div>
-  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Rescale.JPEG" alt="Rescale" width="16%">
+  <div style="text-align: center;">
+    <img src="/images/Rescale.JPEG" alt="Rescale" style="width: 100px; display: block; margin: 0 auto;">
     <span><strong>Rescaled</strong></span>
   </div>
-  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="16%">
+  <div style="text-align: center;">
+    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" style="width: 100px; display: block; margin: 0 auto;">
     <span><strong>Brightness Adjusted</strong></span>
   </div>
-</p>
+</div>
+
 
 
 ### Key Techniques Used
