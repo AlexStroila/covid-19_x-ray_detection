@@ -20,6 +20,15 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 ## Results & Discussions
 The model demonstrated promising results with an F1 score of 72% on the augmented dataset. Data augmentation played a crucial role in enhancing the model's predictive accuracy and robustness.
 
+### Confusion Matrix for the Original Dataset
+![Confusion Matrix for the Original Dataset](/images/Confusion_Matrix_Original.png)
+*Confusion matrix for the original dataset showing the model's performance across different classes.*
+
+### Confusion Matrix for the Augmented Dataset
+![Confusion Matrix for the Augmented Dataset](/images/Confusion_Matrix_Augmented.png)
+*Confusion matrix for the augmented dataset illustrating improved performance and generalization.*
+
+
 ## Conclusions
 The findings underscore the viability of using simpler models, like multinomial logistic regression, for complex image classification tasks in medical imaging, particularly when computational resources are limited.
 
