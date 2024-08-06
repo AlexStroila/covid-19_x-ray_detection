@@ -14,34 +14,10 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 
 ### Data Augmentation Examples
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
+| Original | Translated | Rotated | Rescaled | Brightness Adjusted |
+|----------|------------|---------|----------|---------------------|
+| ![Original](/images/Original.png) | ![Translated](/images/Translate.JPEG) | ![Rotated](/images/Rotate.JPEG) | ![Rescaled](/images/Rescale.JPEG) | ![Brightness Adjusted](/images/Brightness.JPEG) |
 
-<div style="text-align: center; margin-right: 10px;">
-  <img src="/images/Original.png" alt="Original" style="width: 100px;"/>
-  <div><strong>Original</strong></div>
-</div>
-
-<div style="text-align: center; margin-right: 10px;">
-  <img src="/images/Translate.JPEG" alt="Translation" style="width: 100px;"/>
-  <div><strong>Translated</strong></div>
-</div>
-
-<div style="text-align: center; margin-right: 10px;">
-  <img src="/images/Rotate.JPEG" alt="Rotation" style="width: 100px;"/>
-  <div><strong>Rotated</strong></div>
-</div>
-
-<div style="text-align: center; margin-right: 10px;">
-  <img src="/images/Rescale.JPEG" alt="Rescale" style="width: 100px;"/>
-  <div><strong>Rescaled</strong></div>
-</div>
-
-<div style="text-align: center;">
-  <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" style="width: 100px;"/>
-  <div><strong>Brightness Adjusted</strong></div>
-</div>
-
-</div>
 
 
 
