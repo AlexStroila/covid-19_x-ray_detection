@@ -14,7 +14,7 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 
 ### Data Augmentation Examples
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
   <div style="text-align: center;">
     <img src="/images/Original.png" alt="Original" style="width: 100px; display: block; margin: 0 auto;">
     <span><strong>Original</strong></span>
@@ -36,6 +36,7 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
     <span><strong>Brightness Adjusted</strong></span>
   </div>
 </div>
+
 
 
 
