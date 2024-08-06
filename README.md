@@ -32,7 +32,7 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
     <br><strong>Rescaled</strong>
   </span>
   <span>
-    <img src="/path/to/Brightness.png" alt="Brightness Adjustment" width="19%">
+    <img src="/images/Brightness.png" alt="Brightness Adjustment" width="19%">
     <br><strong>Brightness Adjusted</strong>
   </span>
 </p>
