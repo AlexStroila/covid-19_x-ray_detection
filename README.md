@@ -24,7 +24,7 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
     <span><strong>Translated</strong></span>
   </div>
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
-    <img src="/images/Rotate.JPEG" alt="Rotation" width="16">
+    <img src="/images/Rotate.JPEG" alt="Rotation" width="16%">
     <span><strong>Rotated</strong></span>
   </div>
   <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
