@@ -22,10 +22,12 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
   <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="16%">
 </p>
 <p align="center">
-  <strong>Original</strong> - <strong>Translated</strong> - <strong>Rotated</strong> - <strong>Rescaled</strong> - <strong>Brightness Adjusted</strong>
+  <span style="display: inline-block; width: 16%; text-align: center;"><strong>Original</strong></span>
+  <span style="display: inline-block; width: 16%; text-align: center;"><strong>Translated</strong></span>
+  <span style="display: inline-block; width: 16%; text-align: center;"><strong>Rotated</strong></span>
+  <span style="display: inline-block; width: 16%; text-align: center;"><strong>Rescaled</strong></span>
+  <span style="display: inline-block; width: 16%; text-align: center;"><strong>Brightness Adjusted</strong></span>
 </p>
-
-
 
 ### Key Techniques Used
 - **Multinomial Logistic Regression**: For classifying images into multiple categories.
