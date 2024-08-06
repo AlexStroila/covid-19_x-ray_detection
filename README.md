@@ -22,7 +22,7 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
   <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="19%">
 </p>
 <p align="center">
-  <span style="display: inline-block; width: 16%; text-align: center; padding: 0 2px;"><strong>Original</strong></span>
+  <span style="display: inline-block; width: 16%; text-align: center; padding: 0 20px;"><strong>Original</strong></span>
   <span style="display: inline-block; width: 16%; text-align: center; padding: 0 2px;"><strong>Translated</strong></span>
   <span style="display: inline-block; width: 16%; text-align: center; padding: 0 2px;"><strong>Rotated</strong></span>
   <span style="display: inline-block; width: 16%; text-align: center; padding: 0 2px;"><strong>Rescaled</strong></span>
