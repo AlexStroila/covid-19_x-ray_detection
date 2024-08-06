@@ -7,10 +7,35 @@ This project introduces a novel approach employing multinomial logistic regressi
 The study addresses the critical need for rapid and accurate COVID-19 diagnostics using simple yet effective machine learning models, highlighting the importance of chest X-rays (CXR) in detecting lung pathologies related to COVID-19.
 
 ## Problem Framework
-The research focuses on a pixel-by-pixel examination of CXR images using multinomial logistic regression, an extension of logistic regression designed for multi-class problems, offering a simple and interpretable model suitable for medical settings where resources may be limited.
+The research focuses on a **pixel-by-pixel** examination of CXR images using multinomial logistic regression, an extension of logistic regression designed for multi-class problems, offering a simple and interpretable model suitable for medical settings where resources may be limited.
 
 ## Data & Methodology
-Data sourced from a publicly accessible Kaggle dataset was enhanced with data augmentation techniques, significantly increasing the dataset size and diversity, which helped improve model robustness and performance.
+Data sourced from a publicly accessible Kaggle dataset was enhanced with data augmentation techniques (i.e., rotation, translation, rescaling, and brightness adjustment), significantly increasing the dataset size and diversity, which helped improve model robustness and performance.
+
+### Data Augmentation Examples
+
+<p align="center">
+  <span>
+    <img src="/images/Original.png" alt="Original" width="19%">
+    <br><strong>Original</strong>
+  </span>
+  <span>
+    <img src="/images/Translate.png" alt="Translation" width="19%">
+    <br><strong>Translated</strong>
+  </span>
+  <span>
+    <img src="/images/Rotate.png" alt="Rotation" width="19%">
+    <br><strong>Rotated</strong>
+  </span>
+  <span>
+    <img src="/images/Rescale.png" alt="Rescale" width="19%">
+    <br><strong>Rescaled</strong>
+  </span>
+  <span>
+    <img src="/path/to/Brightness.png" alt="Brightness Adjustment" width="19%">
+    <br><strong>Brightness Adjusted</strong>
+  </span>
+</p>
 
 ### Key Techniques Used
 - **Multinomial Logistic Regression**: For classifying images into multiple categories.
@@ -24,8 +49,8 @@ The model demonstrated promising results with an F1 score of 72% on the augmente
   <img src="/images/Confusion_Matrix_Original.png" width="49%" />
   <img src="/images/Confusion_Matrix_Augmented.png" width="49%" /> 
 </p>
-*Confusion matrices: On the left is the original dataset, and on the right is the augmented dataset, illustrating improved performance and generalization.*
 
+**Confusion matrices: On the left is the original dataset, and on the right is the augmented dataset, illustrating improved performance and generalization.**
 
 ## Conclusions
 The findings underscore the viability of using simpler models, like multinomial logistic regression, for complex image classification tasks in medical imaging, particularly when computational resources are limited.
