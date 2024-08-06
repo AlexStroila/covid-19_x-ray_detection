@@ -21,7 +21,7 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 The model demonstrated promising results with an F1 score of 72% on the augmented dataset. Data augmentation played a crucial role in enhancing the model's predictive accuracy and robustness.
 
 <p float="left">
-  <img src="/images/to/Confusion_Matrix_Original.png" width="49%" />
+  <img src="/images/Confusion_Matrix_Original.png" width="49%" />
   <img src="/images/Confusion_Matrix_Augmented.png" width="49%" /> 
 </p>
 *Confusion matrices: On the left is the original dataset, and on the right is the augmented dataset, illustrating improved performance and generalization.*
