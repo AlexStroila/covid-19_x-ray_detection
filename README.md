@@ -13,31 +13,29 @@ The research focuses on a **pixel-by-pixel** examination of CXR images using mul
 Data sourced from a publicly accessible Kaggle dataset was enhanced with data augmentation techniques (i.e., rotation, translation, rescaling, and brightness adjustment), significantly increasing the dataset size and diversity, which helped improve model robustness and performance.
 
 ### Data Augmentation Examples
-
-## Data Augmentation Examples
-
-<p align="center">
-  <span style="display: inline-block; text-align: center; width: 15%;">
-    <img src="/images/Original.png" alt="Original" width="19%">
+<p align="center" style="margin: 0; padding: 0;">
+  <span style="display: inline-block; text-align: center; width: 16%; margin: 0; padding: 0;">
+    <img src="/images/Original.png" alt="Original" width="100%">
     <br><strong>Original</strong>
   </span>
-  <span style="display: inline-block; text-align: center; width: 15%;">
-    <img src="/images/Translate.JPEG" alt="Translation" width="19%">
+  <span style="display: inline-block; text-align: center; width: 16%; margin: 0; padding: 0;">
+    <img src="/images/Translate.JPEG" alt="Translation" width="100%">
     <br><strong>Translated</strong>
   </span>
-  <span style="display: inline-block; text-align: center; width: 15%;">
-    <img src="/images/Rotate.JPEG" alt="Rotation" width="19%">
+  <span style="display: inline-block; text-align: center; width: 16%; margin: 0; padding: 0;">
+    <img src="/images/Rotate.JPEG" alt="Rotation" width="100%">
     <br><strong>Rotated</strong>
   </span>
-  <span style="display: inline-block; text-align: center; width: 15%;">
-    <img src="/images/Rescale.JPEG" alt="Rescale" width="19%">
+  <span style="display: inline-block; text-align: center; width: 16%; margin: 0; padding: 0;">
+    <img src="/images/Rescale.JPEG" alt="Rescale" width="100%">
     <br><strong>Rescaled</strong>
   </span>
-  <span style="display: inline-block; text-align: center; width: 15%;">
-    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="19%">
+  <span style="display: inline-block; text-align: center; width: 16%; margin: 0; padding: 0;">
+    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="100%">
     <br><strong>Brightness Adjusted</strong>
   </span>
 </p>
+
 
 ### Key Techniques Used
 - **Multinomial Logistic Regression**: For classifying images into multiple categories.
