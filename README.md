@@ -14,25 +14,27 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 
 ### Data Augmentation Examples
 
+## Data Augmentation Examples
+
 <p align="center">
-  <span>
-    <img src="/images/Original.png" alt="Original" width="19%">
+  <span style="display: inline-block; text-align: center; width: 19%;">
+    <img src="/images/Original.png" alt="Original" width="100%">
     <br><strong>Original</strong>
   </span>
-  <span>
-    <img src="/images/Translate.JPEG" alt="Translation" width="19%">
+  <span style="display: inline-block; text-align: center; width: 19%;">
+    <img src="/images/Translate.JPEG" alt="Translation" width="100%">
     <br><strong>Translated</strong>
   </span>
-  <span>
-    <img src="/images/Rotate.JPEG" alt="Rotation" width="19%">
+  <span style="display: inline-block; text-align: center; width: 19%;">
+    <img src="/images/Rotate.JPEG" alt="Rotation" width="100%">
     <br><strong>Rotated</strong>
   </span>
-  <span>
-    <img src="/images/Rescale.JPEG" alt="Rescale" width="19%">
+  <span style="display: inline-block; text-align: center; width: 19%;">
+    <img src="/images/Rescale.JPEG" alt="Rescale" width="100%">
     <br><strong>Rescaled</strong>
   </span>
-  <span>
-    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="19%">
+  <span style="display: inline-block; text-align: center; width: 19%;">
+    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="100%">
     <br><strong>Brightness Adjusted</strong>
   </span>
 </p>
