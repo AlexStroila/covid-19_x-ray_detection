@@ -1,1 +1,1 @@
-# covid-19_x-ray_detection
+# COVID-19 detection using chest X-ray images: a multinomial logistic approach
