@@ -20,19 +20,19 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
     <br><strong>Original</strong>
   </span>
   <span>
-    <img src="/images/Translate.png" alt="Translation" width="19%">
+    <img src="/images/Translate.jpeg" alt="Translation" width="19%">
     <br><strong>Translated</strong>
   </span>
   <span>
-    <img src="/images/Rotate.png" alt="Rotation" width="19%">
+    <img src="/images/Rotate.jpeg" alt="Rotation" width="19%">
     <br><strong>Rotated</strong>
   </span>
   <span>
-    <img src="/images/Rescale.png" alt="Rescale" width="19%">
+    <img src="/images/Rescale.jpeg" alt="Rescale" width="19%">
     <br><strong>Rescaled</strong>
   </span>
   <span>
-    <img src="/images/Brightness.png" alt="Brightness Adjustment" width="19%">
+    <img src="/images/Brightness.jpeg" alt="Brightness Adjustment" width="19%">
     <br><strong>Brightness Adjusted</strong>
   </span>
 </p>
