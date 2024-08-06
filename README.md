@@ -15,19 +15,28 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 ### Data Augmentation Examples
 
 <p align="center">
-  <img src="/images/Original.png" alt="Original" width="16%">
-  <img src="/images/Translate.JPEG" alt="Translation" width="16%">
-  <img src="/images/Rotate.JPEG" alt="Rotation" width="16%">
-  <img src="/images/Rescale.JPEG" alt="Rescale" width="16%">
-  <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="16%">
+  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
+    <img src="/images/Original.png" alt="Original" width="100%">
+    <span><strong>Original</strong></span>
+  </div>
+  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
+    <img src="/images/Translate.JPEG" alt="Translation" width="100%">
+    <span><strong>Translated</strong></span>
+  </div>
+  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
+    <img src="/images/Rotate.JPEG" alt="Rotation" width="100%">
+    <span><strong>Rotated</strong></span>
+  </div>
+  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
+    <img src="/images/Rescale.JPEG" alt="Rescale" width="100%">
+    <span><strong>Rescaled</strong></span>
+  </div>
+  <div style="display: inline-block; width: 16%; text-align: center; vertical-align: top;">
+    <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="100%">
+    <span><strong>Brightness Adjusted</strong></span>
+  </div>
 </p>
-<p align="center">
-  <span style="display: inline-block; width: 16%; text-align: left; margin: 0 2px;"><strong>Original</strong></span>
-  <span style="display: inline-block; width: 16%; text-align: center; margin: 0 2px;"><strong>Translated</strong></span>
-  <span style="display: inline-block; width: 16%; text-align: center; margin: 0 2px;"><strong>Rotated</strong></span>
-  <span style="display: inline-block; width: 16%; text-align: center; margin: 0 2px;"><strong>Rescaled</strong></span>
-  <span style="display: inline-block; width: 16%; text-align: right; margin: 0 2px;"><strong>Brightness Adjusted</strong></span>
-</p>
+
 
 ### Key Techniques Used
 - **Multinomial Logistic Regression**: For classifying images into multiple categories.
