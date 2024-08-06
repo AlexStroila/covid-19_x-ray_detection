@@ -15,11 +15,11 @@ Data sourced from a publicly accessible Kaggle dataset was enhanced with data au
 ### Data Augmentation Examples
 
 <p align="center">
-  <img src="/images/Original.png" alt="Original" width="16%">
-  <img src="/images/Translate.JPEG" alt="Translation" width="16%">
-  <img src="/images/Rotate.JPEG" alt="Rotation" width="16%">
-  <img src="/images/Rescale.JPEG" alt="Rescale" width="16%">
-  <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="16%">
+  <img src="/images/Original.png" alt="Original" width="19%">
+  <img src="/images/Translate.JPEG" alt="Translation" width="19%">
+  <img src="/images/Rotate.JPEG" alt="Rotation" width="19%">
+  <img src="/images/Rescale.JPEG" alt="Rescale" width="19%">
+  <img src="/images/Brightness.JPEG" alt="Brightness Adjustment" width="19%">
 </p>
 <p align="center">
   <span style="display: inline-block; width: 16%; text-align: center;"><strong>Original</strong></span>
