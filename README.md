@@ -42,6 +42,6 @@ The model demonstrated promising results with an F1 score of 72% on the augmente
 The findings underscore the viability of using simpler models, like multinomial logistic regression, for complex image classification tasks in medical imaging, particularly when computational resources are limited.
 
 ## How to Use This Repository
-- **Download the Dataset**: The original dataset can be accessed from [Kaggle COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database). However, in the repository you will find the original plus the augmented images directly.
+- **Download the Dataset**: The original dataset can be accessed from [Kaggle COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database).
 - **Run the Model**: Simply execute `main.py` to run the model. For details on the model parameters and setup, refer to `train.py`. 
 - **Explore Further**: The methodology and full results are documented in the accompanying [PDF report](COVID-19_Detection_Chest_XRay_Multinomial_Logistic_Report.pdf).
